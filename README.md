@@ -1,5 +1,5 @@
 # pokemon_inheritance
-Inheritance example using Pokemon types [OOP lesson]
+Inheritance example using Pokemon types [Advanced Software Design project]
 
 # Pokemon Battle Simulator
 
